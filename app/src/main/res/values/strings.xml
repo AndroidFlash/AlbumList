@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlbumListCreator</string>
+    <string name="label_search">Enter artist name</string>
+    <string name="release_date">\"Release date: \"</string>
+    <string name="Error_message">There was an error please try again</string>
+    <string name="Label_Genre">\"Primary Genre Name: \"</string>
+    <string name="Label_Collection_Price">\"Collection Price: \"</string>
+    <string name="Label_Currency">\"Currency: \"</string>
+    <string name="Label_Copyright">\"Copyright: \"</string>
+    <string name="Not_Available_Text">N/A</string>
+    <string name="Title_Info">Info</string>
+    <string name="Label_Ok">ok</string>
+</resources>
